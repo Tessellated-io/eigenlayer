@@ -2,6 +2,6 @@
   "name": "Tessellated",
   "website": "https://tessellated.io",
   "description": "Tessellated builds and validates on proof of stake networks",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Tessellated-io/eigenlayer/main/logo.png",
   "twitter": "tessellated_io"
 }
